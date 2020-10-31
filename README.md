@@ -1,0 +1,2 @@
+# Hcklog
+HckEX's blog!
