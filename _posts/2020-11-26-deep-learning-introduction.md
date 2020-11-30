@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Deep Learning: Introduction"
 date: 2020-11-26 00:26:00 +0900
 categories: Deep Learning
