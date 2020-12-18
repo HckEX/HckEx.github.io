@@ -3,6 +3,8 @@ layout: single
 title: "Deep Learning: Introduction"
 date: 2020-11-26 00:26:00 +0900
 categories: Deep Learning
+sidebar: 
+    nav: "test"
 ---
 # 딥러닝이란 무엇인가?
 딥러닝이란 여러 층으로 이루어진 인공신경망을 의미한다. 딥러닝과 같이 나오는 키워드로 인공지능, 기계학습이 있는데, 다음과 같은 포함 관계를 가지고 있다.
