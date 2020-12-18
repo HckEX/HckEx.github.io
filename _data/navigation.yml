@@ -13,6 +13,6 @@ main:
 
 test:
   - title: "Deep Learning"
-  children:
-    - title: "Deep Learning Introduction"
-    - url: /test/2020-11-26-deep-learning-introduction
+    children:
+      - title: "Deep Learning Introduction"
+        url: /test/2020-11-26-deep-learning-introduction
