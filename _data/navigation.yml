@@ -24,12 +24,9 @@ security:
     children:
       - title: "Part 1/4"
         url: /security/2019-08-11-a-step-by-step-linux-kernel-exploitation-part-1
-    children:
       - title: "Part 2/4"
         url: /security/2019-08-12-a-step-by-step-linux-kernel-exploitation-part-2
-    children:
       - title: "Part 3/4"
         url: /security/2019-08-12-a-step-by-step-linux-kernel-exploitation-part-3
-    children:
       - title: "Part 4/4"
         url: /security/2019-08-12-a-step-by-step-linux-kernel-exploitation-part-4
