@@ -2,6 +2,8 @@
 main:
   - title: "Security Articles"
     url: https://hckex.github.io/security/2019-08-11-a-step-by-step-linux-kernel-exploitation-part-1
+  - title: "Review of Things"
+    url: https://hckex.github.io/review/2021-01-09-ringfit-30days
   - title: "test"
     url: https://hckex.github.io/test/2020-11-26-deep-learning-introduction
   # - title: "About"
@@ -18,6 +20,12 @@ test:
     children:
       - title: "Deep Learning Introduction"
         url: /test/2020-11-26-deep-learning-introduction
+
+review:
+  - title: "링피트 어드벤처"
+    children:
+      - title: "30일차 후기"
+        url: /review/2021-01-09-ringfit-30days
 
 security:
   - title: "CVE-2017-11176: A step-by-step Linux Kernel exploitation"

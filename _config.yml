@@ -29,6 +29,9 @@ collections:
   security:
     output: true
     permalink: /:collection/:name
+  review:
+    output: true
+    permalink: /:collection/:name
   test:
     output: true
     permalink: /:collection/:name
